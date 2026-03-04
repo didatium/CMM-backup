@@ -4,7 +4,7 @@
 
 ## 1) Giới thiệu
 
-**CMM Backup** là một ứng dụng di động được xây dựng để phục vụ công tác quản lý thi đua trong trường THPT. Ứng dụng cho phép:
+**CMM** là một ứng dụng di động được xây dựng để phục vụ công tác quản lý thi đua trong trường THPT. Ứng dụng cho phép:
 
 - Đăng nhập theo vai trò (Admin, Sao đỏ, người dùng khác).
 - Theo dõi lịch trực theo tuần.
