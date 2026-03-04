@@ -140,18 +140,6 @@ Trong `package.json`:
 
 ---
 
-## 9) Bản quyền
-
-Phần mềm được phát triển như một dự án cá nhân học tập.
-
-Nếu bạn là chủ dự án, có thể bổ sung tại đây:
-
-- Tên tác giả
-- Năm phát hành
-- Giấy phép sử dụng (MIT, Apache-2.0, hoặc giấy phép riêng)
-
----
-
-## 10) Liên hệ
-
-Bạn có thể bổ sung email, GitHub, hoặc thông tin liên hệ tại đây để thuận tiện nhận phản hồi.
+## 9) Liên hệ
+Email: datduyle123456789@gmail.com
+Github: https://github.com/didatium
