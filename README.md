@@ -68,27 +68,7 @@
 
 ---
 
-## 5) Biến môi trường
-
-Tạo file `.env` (hoặc cấu hình theo Expo) với các biến:
-
-```bash
-EXPO_PUBLIC_DATA_URL=<api_base_url>
-EXPO_PUBLIC_API_KEY=<api_key>
-```
-
-Ví dụ:
-
-```bash
-EXPO_PUBLIC_DATA_URL=https://your-domain/api/
-EXPO_PUBLIC_API_KEY=your-api-key
-```
-
-> Lưu ý: các biến `EXPO_PUBLIC_*` sẽ được đưa vào bundle phía client.
-
----
-
-## 6) Cài đặt & chạy dự án
+## 5) Cài đặt & chạy dự án
 
 ### Yêu cầu
 
@@ -118,28 +98,6 @@ npm run web
 
 ---
 
-## 7) Script hiện có
-
-Trong `package.json`:
-
-- `start`: chạy Expo
-- `android`: chạy Expo cho Android
-- `ios`: chạy Expo cho iOS
-- `web`: chạy Expo cho web
-
----
-
-## 8) Ghi chú phát triển
-
-- App hiện tập trung cho nghiệp vụ nội bộ trường học.
-- Một số màn hình/chức năng còn ở mức cơ bản và có thể tiếp tục mở rộng.
-- Có thể cân nhắc nâng cấp thêm:
-  - Chuẩn hóa xử lý lỗi API.
-  - Tối ưu hiệu năng render và luồng dữ liệu.
-  - Củng cố bảo mật đăng nhập/token phía backend.
-
----
-
-## 9) Liên hệ
+## 6) Liên hệ
 Email: datduyle123456789@gmail.com
 Github: https://github.com/didatium
